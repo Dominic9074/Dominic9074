@@ -1,6 +1,6 @@
 Hello World 👋,
 
-I’m a developer with a strong focus on backend systems. I enjoy building applications where the logic is clear, the structure is clean, and the system actually scales.
+I’m Dominic,a developer with a strong focus on backend systems. I enjoy building applications where the logic is clear, the structure is clean, and the system actually scales.
 
 Right now, I’m working on a full-stack project, focusing on API design, data handling, and building a backend that can support real-world usage.
 
