@@ -22,7 +22,7 @@ Reach me
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="mailto:dominickb098@gmail.com?subject=Contact%20from%20GitHub">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dominickb098@gmail.com&su=Contact%20from%20GitHub">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
